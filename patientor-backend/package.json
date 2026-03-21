@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint .",
     "dev": "ts-node-dev ./src/index.ts",
-    "start": "node ./build/index.js",
+    "start": "node ./build/src/index.js",
     "tsc": "tsc",
     "build": "rm -rf build && tsc"
   },
