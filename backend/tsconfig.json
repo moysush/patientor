@@ -25,6 +25,7 @@
     // "exactOptionalPropertyTypes": true,
 
     // Style Options
+    "noImplicitAny": true,
     "noImplicitReturns": true,
     // "noImplicitOverride": true,
     "noUnusedLocals": true,
@@ -41,5 +42,5 @@
     // "noUncheckedSideEffectImports": true,
     // "moduleDetection": "force",
     // "skipLibCheck": true
-  }
+  },
 }
